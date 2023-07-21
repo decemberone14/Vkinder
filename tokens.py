@@ -1,0 +1,5 @@
+V = '5.131'
+
+group_token = 'vk1.a.f7aQFPgYpv6l-MUOzdswtNtHqrHY7A220YHUOyLrwHl0myd6Sd5PtmoIS4xF-puDlLhxbwBb0j0E0n4LnIcStd__I4Fk8tMKNaOhUxwuqDUPq4BdoGAKnl6bQjUamUoVRzGG7AlWFWSg9-Vpq9WVbqgPZPFrMlAI3MowwylnNxjAryq6ZL7mjmk7kT93E2_iOqDn04eTfDSymqIogEr41g'
+
+user_token = 'https://oauth.vk.com/blank.html#access_token=vk1.a.RsHtxfEz2J21YA7XY_tAvBH_NYGYsJA65JR91qq-siqODP-xDm0LpWLWMd4cFDwRB3iFjE_Ik5332vM3_zYxrwcbtFE_gwQbLBSoRGns_i7A5oe8h9Aqi0NlF_22kRPeHjmNejXUlsZ72dIm9tzLtmwaVTPeCoj9PBOK6iabW4O56gP0URehd0ACVqkMihHeI0tCjEoqbggthuw2LX3NUA&expires_in=0&user_id=193666075&email=decemberone14@yandex.ru'
